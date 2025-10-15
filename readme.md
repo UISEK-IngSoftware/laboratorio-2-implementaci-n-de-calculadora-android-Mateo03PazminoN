@@ -5,7 +5,7 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: Mateo Pazmiño Naula
+- **Nombre completo**: Mateo Pazmiño Naula.
 - **Carrera**: Ingenieria en Informática
 
 ---
